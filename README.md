@@ -17,11 +17,15 @@ python CS-GCN-LSTM_AllUsers.py #To train the model in multiple user scenarios
 ```
 ## Predict
 
-'''
+```
 python CS-GCN-LSTM_predict.py #To predict the results in single user scenario
 
 python CS-GCN-LSTM_AllUsers_predict.py #To predict the results in multiple user scenarios
-'''
+```
 
 ## Results
+
+
+##
+
 
