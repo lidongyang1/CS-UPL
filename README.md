@@ -13,7 +13,6 @@ Extraction Code：g97g
 python CS-GCN-LSTM.py #To train the model in single user scenario
 
 python CS-GCN-LSTM_AllUsers.py #To train the model in multiple user scenarios
-
 ```
 ## Predict
 
