@@ -5,6 +5,13 @@ a learning-based proactive edge caching architecture is proposed to continuously
 content placement and the online caching content replacement policy. Real-world trace-based simulation results show that the proposed UPL-PEC strategy
 outperforms the compared existing caching strategies at about 2.5\%-45.3\% in terms of the average content transmission latency.
 
+## Requirements
+stellargraph == 1.2.1
+tensorflow-gpu == 2.1.0
+pandas = 1.3.4
+numpy == 1.19.5
+matplotlib == 3.5.0
+
 ## Dataset
 We uploaded the processed dataset to：https://pan.baidu.com/s/1i9R6PJDiEhxxhTgAr8fdLQ 
 Extraction Code：g97g
@@ -25,6 +32,7 @@ python CS-GCN-LSTM_AllUsers_predict.py #To predict the results in multiple user 
 ## Results
 ![image](https://github.com/lidongyang1/CS-UPL/blob/main/%E6%94%B6%E6%95%9B%E6%80%A7Training_loss_new/Training_loss.pdf)
 
-##
+## Pleasae cite the work if you would like to use it
+
 
 
