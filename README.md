@@ -29,8 +29,8 @@ python CS-GCN-LSTM_AllUsers_predict.py #To predict the results in multiple user 
 ```
 
 ## Results
-The convergence of the proposed CS-UPL method is investigated, and comparisons are made with UPL, C-UPL and S-UPL in single user and multiple users scenarios. The results are shown in Fig.\ref{convergence}, from which it is seen that the training loss of four methods all gradually converges as the epoch increases. But, the proposed CS-UPL method outperforms UPL, C-UPL and S-UPL methods on the convergence speed and prediction accuracy for all the single user and multiple users scenarios. This proves that the user preference learning method jointly considering the context correlation among different contents and the influence of social relationships can have a better prediction performance.  
-![image](https://github.com/lidongyang1/CS-UPL/blob/main/%E6%94%B6%E6%95%9B%E6%80%A7Training_loss_new/Training_loss.jpg)
+The convergence of the proposed CS-UPL method is investigated, and comparisons are made with UPL, C-UPL and S-UPL in single user and multiple users scenarios. The results are shown in Fig.\ref{convergence}, from which it is seen that the training loss of four methods all gradually converges as the epoch increases. But, the proposed CS-UPL method outperforms UPL, C-UPL and S-UPL methods on the convergence speed and prediction accuracy for all the single user and multiple users scenarios. This proves that the user preference learning method jointly considering the context correlation among different contents and the influence of social relationships can have a better prediction performance. 
+<img src="https://github.com/lidongyang1/CS-UPL/blob/main/%E6%94%B6%E6%95%9B%E6%80%A7Training_loss_new/Training_loss.jpg" width="100px">
 
 ## Pleasae cite the work if you would like to use it
 
