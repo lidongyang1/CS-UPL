@@ -23,7 +23,7 @@ python CS-GCN-LSTM_AllUsers_predict.py #To predict the results in multiple user 
 ```
 
 ## Results
-![image]()
+![image](https://github.com/lidongyang1/CS-UPL/blob/main/%E6%94%B6%E6%95%9B%E6%80%A7Training_loss_new/Training_loss.pdf)
 
 ##
 
