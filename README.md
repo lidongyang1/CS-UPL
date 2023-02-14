@@ -35,5 +35,5 @@ The convergence of the proposed CS-UPL method is investigated, and comparisons a
 
 ## Pleasae cite the work if you would like to use it
 
-
+Dongyang Li, Haixia Zhang, Hui Ding, Tiantian Li, Daojun Liang and Dongfeng Yuan, "User Preference Learning-based Proactive Edge Caching for D2D-Assisted Wireless Networks," in IEEE Internet of Things Journal, early access. DOI: 10.1109/JIOT.2023.
 
