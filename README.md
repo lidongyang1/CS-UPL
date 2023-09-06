@@ -14,6 +14,11 @@ matplotlib == 3.5.0
 ## Dataset
 We uploaded the processed dataset to：https://pan.baidu.com/s/1i9R6PJDiEhxxhTgAr8fdLQ 
 Extraction Code：g97g
+
+Updata Dataset 
+Based on the reviewers' comments, we revised the number of users to 100 in the final version of the paper. The update dataset can be seen at:https://pan.baidu.com/s/11KETpeBprwuvOoczMMgXzQ
+Extraction Code：s2i8
+
 ## Training
 ```
 python CS-GCN-LSTM.py #To train the model in single user scenario
